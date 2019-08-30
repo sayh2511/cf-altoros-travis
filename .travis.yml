@@ -17,8 +17,8 @@ branches:
 
 deploy:
     provider: cloudfoundry
-    api: $CF_API
-    username: $CF_USER
-    password: $CF_PASS
-    organization: $CF_ORG
-    space: $CF_ENV
+    api: https://api.system.eu01.cloud.schwarz
+    username: student
+    password: Schwartz #1 @ 2018-08
+    organization: cf-training
+    space: E3
