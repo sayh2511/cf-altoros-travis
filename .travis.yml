@@ -19,6 +19,6 @@ deploy:
     provider: cloudfoundry
     api: https://api.system.eu01.cloud.schwarz
     username: student
-    password: Schwartz #1 @ 2018-08
+    password: "Schwartz #1 @ 2018-08"
     organization: cf-training
     space: E3
